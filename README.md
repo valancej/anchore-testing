@@ -25,7 +25,7 @@
 
 `helm install prom-stack prometheus-community/kube-prometheus-stack -n monitoring`
 
-Grafana ingress available at port 80
+Grafana available at port 80
 
 ### Step 4: Install Anchore
 
