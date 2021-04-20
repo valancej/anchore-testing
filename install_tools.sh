@@ -3,7 +3,7 @@
 set -e
 # Update and install docker and git
 
-sudo yum update -y & sudo yum install docker git -y
+#sudo yum update -y & sudo yum install docker git -y
 
 sudo systemctl start docker
 
