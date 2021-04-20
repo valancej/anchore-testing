@@ -1,0 +1,4 @@
+namespace: anchore
+
+resources:
+  - template.yaml
